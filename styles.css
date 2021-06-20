@@ -1,0 +1,43 @@
+html,body {
+  font-family: 'Raleway', sans-serif;
+  padding: 3em 2em;
+  font-size: 14px;
+  background: #222;
+  color: #aaa;
+}
+
+h1,h2 {
+  font-weight: 200;
+  margin: 0.4em 0;
+}
+h1 { font-size: 3.5em; }
+h2 {
+  color: #888;
+  font-size: 2em;
+  margin-bottom: 30px;
+}
+span{
+  font-weight:700;
+}
+iframe{
+  border-radius: 10px;
+}
+
+ul li{
+  list-style-type: none;
+  display: inline;
+  font-size: 20px;
+  padding: 20px;
+}
+#offerings{
+  text-align:center;
+  font-weight: 600;
+}
+#linked-in{
+  margin-top: 50px;
+  font-size:16px;
+}
+a{
+  text-decoration: none;
+  color: #aaa;
+}
